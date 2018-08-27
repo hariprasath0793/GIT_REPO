@@ -1,0 +1,18 @@
+GIT Commands
+--------------
+
+git init
+
+git status
+
+git add --a
+git add --all
+
+git commit -m "commit message"
+
+git branch firstbranch
+
+git checkout 'firstbranch'
+
+git merge (branchname)
+
